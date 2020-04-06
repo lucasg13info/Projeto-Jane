@@ -1,2 +1,2 @@
 # Projeto-Jane - Joe
-Estudos HTML, CSS
+## Aplicação Utilizando HTML e CSS 
